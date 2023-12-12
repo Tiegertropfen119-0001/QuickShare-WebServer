@@ -1,8 +1,10 @@
 # QuickShare WebServer
 
-| Console | Web |
-| ------- | ------- |
-| ![Image 1](https://github.com/Tiegertropfen119-0001/QuickShare-WebServer/blob/main/img/image1.png) | ![Image 2](https://github.com/Tiegertropfen119-0001/QuickShare-WebServer/blob/main/img/image2.png) |
+
+## Console
+![Image 1](https://github.com/Tiegertropfen119-0001/QuickShare-WebServer/blob/main/img/image1.png) 
+## Web
+![Image 2](https://github.com/Tiegertropfen119-0001/QuickShare-WebServer/blob/main/img/image2.png) 
 
 ## What is this?
 
